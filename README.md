@@ -3,8 +3,8 @@ collaboration test
 
 <section>
   <article>
-    <h1><b>AWIKWOK vxhkagxjkshcxjscsjcsjcbsjcsbcjscbsjcBANGET</b></h1>
-    <p>gabriel love evan</p>
+    <h1><b>index.html</b></h1>
+    <p>Berisi tentang</p>
   </article>
 </section>
 
