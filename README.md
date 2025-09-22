@@ -3,6 +3,7 @@ collaboration test
 
 <section>
   <article>
-    <h1><b>AWIKWOK BANGET</b></h1>
+    <h1><b>AWIKWOK vxhkagxjkshcxjscsjcsjcbsjcsbcjscbsjcBANGET</b></h1>
+    <p>gabriel love evan</p>
   </article>
 </section>
