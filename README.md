@@ -83,4 +83,15 @@
   </ul>
 
   <h4>Tag Semantik HTML5</h4>
+    <ul>
+      <li>header</li>
+        <p>Merupakan bagian kepala halaman berfungsi untuk menandai area header untuk semantik yang jelas.
+        Dan di dalam header terdapat:</p>
+          <ul>
+            <li>nav</li>
+              <p>Merupakan navigasi utama website yang berfungsi menandai menu navigasi untuk aksesibilitas</p>
+            <li>article</li>
+              <p></p>
+          </ul>
+    </ul>
     
