@@ -63,4 +63,6 @@
   <li>E4.png - Gambar Produk Elektrik 4</li>
 </ul>
 
+<h4>Struktur Dasar HTML</h4>
+<!DOCTYPE html>
 
