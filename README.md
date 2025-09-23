@@ -45,7 +45,22 @@
 <h4>Dokumen Gambar</h4>
 <ul>
   <li>logo.png - Logo Perusahaan</li>
-  <li>logo.png - Logo Perusahaan</li>
-  <li>logo.png - Logo Perusahaan</li>
-  <li>logo.png - Logo Perusahaan</li>
+  <li>F.png - Icon Facebook</li>
+  <li>T.png - Icon Twitter</li>
+  <li>I.png - Icon Instagram</li>
+  <li>PIC1.png - Banner Utama</li>
+  <li>PIC2.png - Banner Akustik</li>
+  <li>PIC3.png - Banner Elektrik</li>
+  <br>
+  <li>A1.png - Gambar Produk Akustik 1</li>
+  <li>A2.png - Gambar Produk Akustik 2</li>
+  <li>A3.png - Gambar Produk Akustik 3</li>
+  <li>A4.png - Gambar Produk Akustik 4</li>
+  <br>
+  <li>E1.png - Gambar Produk Elektrik 1</li>
+  <li>E2.png - Gambar Produk Elektrik 2</li>
+  <li>E3.png - Gambar Produk Elektrik 3</li>
+  <li>E4.png - Gambar Produk Elektrik 4</li>
 </ul>
+
+
