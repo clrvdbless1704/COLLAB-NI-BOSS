@@ -118,5 +118,5 @@
 
 
 <h3>Kesimpulan</h3>
-<p></p>
+<p>Berdasarkan proyek pembuatan website toko gitar The Guitar Hub, dapat disimpulkan bahwa tujuan utama telah tercapai dengan berhasil dibangunnya website menggunakan HTML dan HTML Semantik. Website ini memiliki struktur lengkap dengan halaman-halaman utama seperti Home, Products, About, Contact, serta halaman detail produk untuk setiap gitar yang ditawarkan. Penerapan elemen-elemen semantik HTML5 seperti (header) (footer), (article), (section), dan (nav) juga sudah dilakukan dengan tepat, sehingga tidak hanya memperbaiki struktur dokumen tetapi juga membuat kode lebih mudah dipahami, dirawat, dan lebih aksesibel bagi semua pengguna. Navigasi pada website dirancang konsisten di setiap halaman, dengan header yang menampilkan logo serta menu navigasi seragam sehingga memberikan pengalaman pengguna yang profesional dan terintegrasi. Selain itu, presentasi produk ditampilkan secara informatif dengan mencantumkan gambar, deskripsi, spesifikasi teknis, dan harga, bahkan penggunaan tabel pada spesifikasi membuat informasi lebih rapi dan mudah dibaca.</p>
 
