@@ -64,35 +64,35 @@
 </ul>
 
 <h3>Penjelasan Baris Kode</h3>
-<h4>Struktur Dasar HTML</h4>
+<h4>Struktur Dasar HTML (Element)</h4>
   <ul>
     <li>!DOCTYPE html</li>
-      <p>Tag !DOCTYPE html berfungsi untuk mendeklarasikan tipe dokumen HTML5, Berguna untuk memberitahu browser bahwa ini adalah dokumen HTML5 standar</p>
-    <li>html lang="en"</li>
-      <p>Tag html lang="en" merupakan elemen root dengan atribut bahasa Inggris, Berguna untuk menentukan bahasa konten untuk aksesibilitas dan SEO</p>
-    <li>head</li>
-      <p>Tag head merupakan bagian kepala untuk metadata yang dimana terdapat
-      <ul>
-        <li>charset="UTF-*"</li>
-          <p>Berfungsi untuk mensuport karakter internasional</p>
-        <li>viewport</li>
-          <p>Berfungsi sebagai responsive design untuk mobile device</p>
-        <li>title</li>
-          <p>Merupakan Judul tab browser untuk SEO</p>
-      </p>
+      <p>!DOCTYPE html kami pakai karena doctype dipakai sebagai acuan aturan agar halaman HTML dianggap valid. Dan sekarang fungsinya lebih ke memastikan dokumen jalan dengan benar.</p>
+    <li>html /html</li>
+      <p>Elemen ini kami pakai karena berfungsi sebagai pembungkus seluruh konten halama dan sekaligus menentukan bahasa utama dokumen lewat atribut lang (html lang="en") </p>
+    <li>head /head</li>
+      <p>Elemen ini kami pakai untuk menjadi wadah informasi penting yang nggak langsung tampil ke pengunjung, seperti keyword dan deskripsi agar halaman lebih mudah dikenali di hasil pencarian.
+    <li>meta charset="utf-8"</li>
+      <p>Elemen ini kamu pakai karena dengan ini dokumen bisa menampilkan hampir semua karakter dari berbagai bahasa, jadi aman dipakai untuk konten teks apa pun.</p>
+    <li>meta name="viewport" content="width=device-width"</li>
+      <p>Kami memakai elemen ini supaya halaman bisa menyesuaikan lebar layar perangkat, khususnya di mobile, jadi tampilannya gak melebar berlebihan dan tetap nyaman dibaca.</p>
+    <li>title /title</li>
+      <p>Kami memakai elemen ini untuk memunculkan judul di tab browser dan juga dipakai sebagai deskripsi saat halaman dibookmark, jadi penting buat identitas juga.</p>
+    <li>body /body</li>
+      <p>Kami pakai elemen ini karena di sinilah semua konten utama yang ingin ditampilkan ke pengguna ditempatkan, mulai dari teks, gambar, video, sampai elemen interaktif lainnya.</p>
   </ul>
 
   <h4>Tag Semantik HTML5</h4>
     <ul>
       <li>header</li>
-        <p>Tag header merupakan bagian kepala halaman berfungsi untuk menandai area header untuk semantik yang jelas.
-        Dan di dalam header terdapat:</p>
-          <ul>
-            <li>nav</li>
-              <p>Tag nav merupakan navigasi utama website yang berfungsi menandai menu navigasi untuk aksesibilitas</p>
-          </ul>
-      <li>main</li>
-        <p>tag main merupakan konten utama halaman biasanya untuk menandai konten utama</p>
-    </ul>
-                <li>article</li>
-              <p>Tag article merupakan </p>
+        <p>Kami memakai tag ini karena berfungsi sebagai wadah untuk bagian kepala, seperti judul, logo, atau pencarian, dan bisa dipakai bukan cuma di atas halaman tapi juga sebagai header di bagian atau article tertentu.</p>
+      <li>footer</li>
+        <p>Kami pakai tag ini karena berguna sebagai bagian kaki halaman untuk menampilkan info penting seperti hak cipta, kontak, atau tautan ke dokumen terkait.</p>
+      <li>article</li>
+        <p>Kami memakai tag ini karena cocok untuk menampilkan konten mandiri yang bisa dibagikan atau dipakai ulang, misalnya digunakan pada halaman detail produk.</p>
+      <li>section</li>
+        <p>Kami pakai tag ini karena berfungsi untuk membagi konten ke dalam bagian yang punya tema tertentu, sehingga lebih terstruktur dan biasanya disertai judul agar jelas maknanya.</p>
+      <li>nav</li>
+        <p>Kami pakai tag ini karena berfungsi sebagai wadah navigasi utama, biasanya berisi daftar link menu atau tabel isi supaya pengunjung mudah berpindah antarbagian halaman.</p>
+  
+
