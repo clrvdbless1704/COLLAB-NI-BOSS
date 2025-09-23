@@ -103,7 +103,7 @@
       <li>paragraphs (p)</li>
         <p>Kami pakai tag ini karena berfungsi untuk membagi teks jadi paragraf yang rapi dan mudah dibaca, dengan jarak otomatis antarparagraf sehingga konten lebih terstruktur dan enak dilihat.</p>
       <li>Lists (ul, li)</li>
-        <p>Kami memakai elemen daftar (ul, li) karena membantu menyajikan konten dalam bentuk poin yang lebih terstruktur. <ul> dipakai kalau urutan tidak penting,dan <li> untuk setiap item dalam daftar.</p>
+        <p>Kami memakai elemen daftar (ul, li) karena membantu menyajikan konten dalam bentuk poin yang lebih terstruktur. <ul> dipakai kalau urutan tidak penting,dan (li) untuk setiap item dalam daftar.</p>
       <li>Images (img)</li>
         <p>Kami memakai tag ini karena bisa menampilkan gambar di halaman web, bikin tampilan lebih menarik, memperjelas informasi, serta tetap ramah aksesibilitas lewat atribut seperti src, alt, dan pengaturan ukuran (width/height).</p>
       <li>Links (a)</li>
