@@ -6,7 +6,7 @@
   <li>Gabriel Jehuda Tamedo (42430007)</li>
 </ul>
 
-<h2>Project</h2>
+<h2>Project membuat layout website toko gitar menggunakan HTML</h2>
 <h3>The Guitar Hub - Website Toko Gitar</h3>
 <p>Website e-commerce untuk toko gitar "The Guitar Hub" yang dibangun menggunakan HTML dan HTML Semantik. Website ini menampilkan berbagai jenis gitar akustik dan elektrik dengan informasi produk yang lengkap.</p>
 
