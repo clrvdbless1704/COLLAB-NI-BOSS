@@ -7,7 +7,6 @@
 </ul>
 
 <h2>Project</h2>
-
 <h3>The Guitar Hub - Website Toko Gitar</h3>
 <p>Website e-commerce untuk toko gitar "The Guitar Hub" yang dibangun menggunakan HTML dan HTML Semantik. Website ini menampilkan berbagai jenis gitar akustik dan elektrik dengan informasi produk yang lengkap.</p>
 
@@ -25,4 +24,28 @@
 
 <h3>Struktur Proyek</h3>
 
-<h4>Website Guitar</h4>
+<h4>Dokumen HTML</h4>
+<ul>
+  <li>index.html - Halaman Utama</li>
+  <li>about.html - Halaman Tentang Perusahaan</li>
+  <li>product.html - Halaman Katalog Produk</li>
+  <li>contact.html - Halaman Kontak</li>
+  <br>
+  <li>A1.html - Halaman Detail Produk Gitar Akustik 1</li>
+  <li>A2.html - Halaman Detail Produk Gitar Akustik 2</li>
+  <li>A3.html - Halaman Detail Produk Gitar Akustik 3</li>
+  <li>A4.html - Halaman Detail Produk Gitar Akustik 4</li>
+  <br>
+  <li>E1.html - Halaman Detail Produk Gitar Elektrik 1</li>
+  <li>E2.html - Halaman Detail Produk Gitar Elektrik 2</li>
+  <li>E3.html - Halaman Detail Produk Gitar Elektrik 3</li>
+  <li>E4.html - Halaman Detail Produk Gitar Elektrik 4</li>
+</ul>
+
+<h4>Dokumen Gambar</h4>
+<ul>
+  <li>logo.png - Logo Perusahaan</li>
+  <li>logo.png - Logo Perusahaan</li>
+  <li>logo.png - Logo Perusahaan</li>
+  <li>logo.png - Logo Perusahaan</li>
+</ul>
