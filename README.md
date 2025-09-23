@@ -64,7 +64,7 @@
 </ul>
 
 <h3>Penjelasan Baris Kode</h3>
-<h4>Struktur Dasar HTML (Element)</h4>
+<h4>Struktur HTML (Element)</h4>
   <ul>
     <li>!DOCTYPE html</li>
       <p>!DOCTYPE html kami pakai karena doctype dipakai sebagai acuan aturan agar halaman HTML dianggap valid. Dan sekarang fungsinya lebih ke memastikan dokumen jalan dengan benar.</p>
@@ -94,5 +94,26 @@
         <p>Kami pakai tag ini karena berfungsi untuk membagi konten ke dalam bagian yang punya tema tertentu, sehingga lebih terstruktur dan biasanya disertai judul agar jelas maknanya.</p>
       <li>nav</li>
         <p>Kami pakai tag ini karena berfungsi sebagai wadah navigasi utama, biasanya berisi daftar link menu atau tabel isi supaya pengunjung mudah berpindah antarbagian halaman.</p>
-  
+
+  <h4>Tag Dasar</h4>
+    <ul>
+      <li>heading (h1,h2,h3,h4,h5,h6)</li>
+        <p>Kami memakai heading (h1) sampai (h6) karena berguna untuk memberi struktur pada konten, menandai judul utama hingga subjudul.</p>
+      <li>paragraphs (p)</li>
+        <p>Kami pakai tag ini karena berfungsi untuk membagi teks jadi paragraf yang rapi dan mudah dibaca, dengan jarak otomatis antarparagraf sehingga konten lebih terstruktur dan enak dilihat.</p>
+      <li>Lists (ul, li)</li>
+        <p>Kami memakai elemen daftar (ul, li) karena membantu menyajikan konten dalam bentuk poin yang lebih terstruktur. <ul> dipakai kalau urutan tidak penting,dan <li> untuk setiap item dalam daftar.</p>
+      <li>Images (img)</li>
+        <p>Kami memakai tag ini karena bisa menampilkan gambar di halaman web, bikin tampilan lebih menarik, memperjelas informasi, serta tetap ramah aksesibilitas lewat atribut seperti src, alt, dan pengaturan ukuran (width/height).</p>
+      <li>Links (a)</li>
+        <p>Kami pakai tag ini karena berfungsi sebagai tautan (anchor) yang jadi inti dari web, memungkinkan pengunjung berpindah ke halaman lain atau bagian tertentu dengan mudah.</p>
+
+  <h4>Form (Element)</h4>      
+      <li>form /form(a)</li>
+        <p>Kami memakai elemen ini karena dapat menjadi wadah utama untuk membuat formulir HTML seperti pada halaman contact, dan dapat menyatukan semua input di dalamnya, serta memudahkan browser dan teknologi bantu mengenali serta mengolah formulir dengan baik.</p>
+      <li>label /label(a)</li>
+        <p>Kami pakai elemen ini karena berfungsi memberi keterangan jelas pada input formulir, bikin lebih mudah dipahami oleh pengguna biasa maupun pembaca layar, sehingga formulir jadi lebih ramah dan aksesibel.</p>
+
+
+<h3>Kesimpulan</h3>
 
