@@ -6,18 +6,21 @@
   <li>Gabriel Jehuda Tamedo (42430007)</li>
 </ul>
 
-# The Guitar Hub - Website Toko Gitar
+<h2>Project</h2>
 
-Website e-commerce untuk toko gitar "The Guitar Hub" yang dibangun menggunakan HTML dan HTML Semantik. Website ini menampilkan berbagai jenis gitar akustik dan elektrik dengan informasi produk yang lengkap.
+<h3>The Guitar Hub - Website Toko Gitar</h3>
+<p>Website e-commerce untuk toko gitar "The Guitar Hub" yang dibangun menggunakan HTML dan HTML Semantik. Website ini menampilkan berbagai jenis gitar akustik dan elektrik dengan informasi produk yang lengkap.</p>
 
-## Deskripsi Proyek
+<h3>Deskripsi Proyek</h3>
+<p>The Guitar Hub adalah website toko gitar online yang kami rancang menggunakan HTML. Website ini menampilkan beberapa Halaman seperti Home, Product, About, Contact, dan Detail Product.</p>
 
-The Guitar Hub adalah website toko gitar online yang menyediakan berbagai macam gitar berkualitas untuk musisi dari semua level, mulai dari pemula hingga profesional. Website ini menampilkan produk-produk dari brand ternama seperti Fender, Taylor, Ibanez, Gretsch, dan Harmony.
+<h3>Fitur Utama</h3>
+<ul>
+  <li>**Halaman Home** - Menampilkan produk terlaris dan kategori gitar</li>
+  <li>**Halaman Products** - Katalog lengkap semua produk gitar</li>
+  <li>**Halaman About** - Informasi tentang perusahaan dan visi misi</li>
+  <li>**Halaman Contact** - Form kontak untuk konsultasi dengan customer service</li>
+  <li>**Halaman Detail Produk** - Informasi lengkap setiap produk dengan spesifikasi detail</li>
+</ul>
 
-### Fitur Utama
-
-- **Halaman Home** - Menampilkan produk terlaris dan kategori gitar
-- **Halaman Products** - Katalog lengkap semua produk gitar
-- **Halaman About** - Informasi tentang perusahaan dan visi misi
-- **Halaman Contact** - Form kontak untuk konsultasi dengan customer service
-- **Halaman Detail Produk** - Informasi lengkap setiap produk dengan spesifikasi detail
+<h3>Struktur Proyek</h3>
