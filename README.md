@@ -69,5 +69,7 @@
     <li>!DOCTYPE html</li>
       <p>Berfungsi untuk mendeklarasikan tipe dokumen HTML5, Berguna untuk memberitahu browser bahwa ini adalah dokumen HTML5 standar</p>
     <li>html lang="en"</li>
-      <p></p>
+      <p>Merupakan elemen root dengan atribut bahasa Inggris, Berguna untuk menentukan bahasa konten untuk aksesibilitas dan SEO</p>
+    <li>head</li>
+      <p>Merupakan bagian kepala untuk metadata yang dimana terdapat</p>
   </ul>
