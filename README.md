@@ -63,7 +63,11 @@
   <li>E4.png - Gambar Produk Elektrik 4</li>
 </ul>
 
+<h3>Penjelasan Baris Kode</h3>
 <h4>Struktur Dasar HTML</h4>
-"<!DOCTYPE html>"
-<p>Berfungsi untuk mendeklarasikan tipe dokumen HTML5, Berguna untuk memberitahu browser bahwa ini adalah dokumen HTML5 standar</p>
-
+  <ul>
+    <li>!DOCTYPE html</li>
+      <p>Berfungsi untuk mendeklarasikan tipe dokumen HTML5, Berguna untuk memberitahu browser bahwa ini adalah dokumen HTML5 standar</p>
+    <li>html lang="en"</li>
+      <p></p>
+  </ul>
