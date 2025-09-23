@@ -71,5 +71,13 @@
     <li>html lang="en"</li>
       <p>Merupakan elemen root dengan atribut bahasa Inggris, Berguna untuk menentukan bahasa konten untuk aksesibilitas dan SEO</p>
     <li>head</li>
-      <p>Merupakan bagian kepala untuk metadata yang dimana terdapat</p>
+      <p>Merupakan bagian kepala untuk metadata yang dimana terdapat
+      <ul>
+        <li>charset="UTF-*"</li>
+          <p>Berfungsi untuk mensuport karakter internasional</p>
+        <li>viewport</li>
+          <p>Berfungsi sebagai responsive design untuk mobile device</p>
+        <li>title</li>
+          <p>Merupakan Judul tab browser untuk SEO</p>
+      </p>
   </ul>
