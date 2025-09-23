@@ -110,12 +110,13 @@
         <p>Kami pakai tag ini karena berfungsi sebagai tautan (anchor) yang jadi inti dari web, memungkinkan pengunjung berpindah ke halaman lain atau bagian tertentu dengan mudah.</p>
     </ul>
 
-  <h4>Form (Element)</h4>      
-      <li>form /form(a)</li>
-        <p>Kami memakai elemen ini karena dapat menjadi wadah utama untuk membuat formulir HTML seperti pada halaman contact, dan dapat menyatukan semua input di dalamnya, serta memudahkan browser dan teknologi bantu mengenali serta mengolah formulir dengan baik.</p>
-      <li>label /label(a)</li>
-        <p>Kami pakai elemen ini karena berfungsi memberi keterangan jelas pada input formulir, bikin lebih mudah dipahami oleh pengguna biasa maupun pembaca layar, sehingga formulir jadi lebih ramah dan aksesibel.</p>
+<h4>Form (Element)</h4>      
+    <li>form /form(a)</li>
+      <p>Kami memakai elemen ini karena dapat menjadi wadah utama untuk membuat formulir HTML seperti pada halaman contact, dan dapat menyatukan semua input di dalamnya, serta memudahkan browser dan teknologi bantu mengenali serta mengolah formulir dengan baik.</p>
+    <li>label /label(a)</li>
+      <p>Kami pakai elemen ini karena berfungsi memberi keterangan jelas pada input formulir, bikin lebih mudah dipahami oleh pengguna biasa maupun pembaca layar, sehingga formulir jadi lebih ramah dan aksesibel.</p>
 
 
 <h3>Kesimpulan</h3>
+<p></p>
 
