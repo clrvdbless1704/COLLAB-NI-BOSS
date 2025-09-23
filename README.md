@@ -64,5 +64,5 @@
 </ul>
 
 <h4>Struktur Dasar HTML</h4>
-<!DOCTYPE html>
+<p><!DOCTYPE html></p>
 
