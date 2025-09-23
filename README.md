@@ -94,6 +94,7 @@
         <p>Kami pakai tag ini karena berfungsi untuk membagi konten ke dalam bagian yang punya tema tertentu, sehingga lebih terstruktur dan biasanya disertai judul agar jelas maknanya.</p>
       <li>nav</li>
         <p>Kami pakai tag ini karena berfungsi sebagai wadah navigasi utama, biasanya berisi daftar link menu atau tabel isi supaya pengunjung mudah berpindah antarbagian halaman.</p>
+    </ul>
 
   <h4>Tag Dasar</h4>
     <ul>
