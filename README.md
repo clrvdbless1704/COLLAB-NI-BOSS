@@ -67,11 +67,11 @@
 <h4>Struktur Dasar HTML</h4>
   <ul>
     <li>!DOCTYPE html</li>
-      <p>Berfungsi untuk mendeklarasikan tipe dokumen HTML5, Berguna untuk memberitahu browser bahwa ini adalah dokumen HTML5 standar</p>
+      <p>Tag !DOCTYPE html berfungsi untuk mendeklarasikan tipe dokumen HTML5, Berguna untuk memberitahu browser bahwa ini adalah dokumen HTML5 standar</p>
     <li>html lang="en"</li>
-      <p>Merupakan elemen root dengan atribut bahasa Inggris, Berguna untuk menentukan bahasa konten untuk aksesibilitas dan SEO</p>
+      <p>Tag html lang="en" merupakan elemen root dengan atribut bahasa Inggris, Berguna untuk menentukan bahasa konten untuk aksesibilitas dan SEO</p>
     <li>head</li>
-      <p>Merupakan bagian kepala untuk metadata yang dimana terdapat
+      <p>Tag head merupakan bagian kepala untuk metadata yang dimana terdapat
       <ul>
         <li>charset="UTF-*"</li>
           <p>Berfungsi untuk mensuport karakter internasional</p>
@@ -85,13 +85,14 @@
   <h4>Tag Semantik HTML5</h4>
     <ul>
       <li>header</li>
-        <p>Merupakan bagian kepala halaman berfungsi untuk menandai area header untuk semantik yang jelas.
+        <p>Tag header merupakan bagian kepala halaman berfungsi untuk menandai area header untuk semantik yang jelas.
         Dan di dalam header terdapat:</p>
           <ul>
             <li>nav</li>
-              <p>Merupakan navigasi utama website yang berfungsi menandai menu navigasi untuk aksesibilitas</p>
-            <li>article</li>
-              <p></p>
+              <p>Tag nav merupakan navigasi utama website yang berfungsi menandai menu navigasi untuk aksesibilitas</p>
           </ul>
+      <li>main</li>
+        <p>tag main merupakan konten utama halaman biasanya untuk menandai konten utama</p>
     </ul>
-    
+                <li>article</li>
+              <p>Tag article merupakan </p>
