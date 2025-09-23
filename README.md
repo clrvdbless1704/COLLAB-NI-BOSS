@@ -107,6 +107,7 @@
         <p>Kami memakai tag ini karena bisa menampilkan gambar di halaman web, bikin tampilan lebih menarik, memperjelas informasi, serta tetap ramah aksesibilitas lewat atribut seperti src, alt, dan pengaturan ukuran (width/height).</p>
       <li>Links (a)</li>
         <p>Kami pakai tag ini karena berfungsi sebagai tautan (anchor) yang jadi inti dari web, memungkinkan pengunjung berpindah ke halaman lain atau bagian tertentu dengan mudah.</p>
+    </ul>
 
   <h4>Form (Element)</h4>      
       <li>form /form(a)</li>
