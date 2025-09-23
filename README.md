@@ -16,11 +16,13 @@
 
 <h3>Fitur Utama</h3>
 <ul>
-  <li>**Halaman Home** - Menampilkan produk terlaris dan kategori gitar</li>
-  <li>**Halaman Products** - Katalog lengkap semua produk gitar</li>
-  <li>**Halaman About** - Informasi tentang perusahaan dan visi misi</li>
-  <li>**Halaman Contact** - Form kontak untuk konsultasi dengan customer service</li>
-  <li>**Halaman Detail Produk** - Informasi lengkap setiap produk dengan spesifikasi detail</li>
+  <li><b>Halaman Home</b> - Menampilkan produk terlaris dan kategori gitar</li>
+  <li><b>Halaman Products</b> - Katalog lengkap semua produk gitar</li>
+  <li><b>Halaman About</b> - Informasi tentang perusahaan dan visi misi</li>
+  <li><b>Halaman Contact</b> - Form kontak untuk konsultasi dengan customer service</li>
+  <li><b>Halaman Detail Produk</b> - Informasi lengkap setiap produk dengan spesifikasi detail</li>
 </ul>
 
 <h3>Struktur Proyek</h3>
+
+<h4>Website Guitar</h4>
