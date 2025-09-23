@@ -64,5 +64,6 @@
 </ul>
 
 <h4>Struktur Dasar HTML</h4>
-<p><!DOCTYPE html></p>
+!DOCTYPE html
+<p>Berfungsi untuk mendeklarasikan tipe dokumen HTML5, Berguna untuk memberitahu browser bahwa ini adalah dokumen HTML5 standar</p>
 
